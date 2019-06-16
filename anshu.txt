@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hie NAhsu
-
-wkvjbwjhbv
-=======
-hhhHie NAhsu
->>>>>>> new_branch
